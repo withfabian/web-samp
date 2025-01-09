@@ -1,6 +1,6 @@
 # 🌟 Proyek Web SAMP 🌟
 
-![Coming Soon](https://via.placeholder.com/800x200.png?text=Coming+Soon)
+## Coming Soon
 
 **📅 Status:** Segera Hadir  
 **🚀 Mulai Proyek:** 25 Januari 2025  
