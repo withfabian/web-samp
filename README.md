@@ -1,46 +1,64 @@
-# SAMP Web Project
+# 🌟 Proyek Web SAMP 🌟
 
-**Status:** Coming Soon  
-**Start Project:** 25 January 2025  
-**First Release Version:** 1.0.0.5  
+![Coming Soon](https://via.placeholder.com/800x200.png?text=Coming+Soon)
 
-## About
-This is a web-based project designed to enhance the experience of SAMP (San Andreas Multiplayer) players. The platform will include features such as user registration, player stats, server management tools, and much more. Stay tuned for updates and the official release!
+**📅 Status:** Segera Hadir  
+**🚀 Mulai Proyek:** 25 Januari 2025  
+**🌌 Versi Rilis Pertama:** 1.0.0.5  
 
-## Features (Planned)
-- Player Registration and Login
-- Real-Time Server Statistics
-- Admin Panel for Server Management
-- User-Friendly Dashboard
-- Mobile-Friendly Design
+---
 
-## Roadmap
-- **25 January 2025**: Project Start
-- **TBD**: Beta Testing
-- **TBD**: Official Release (Version 1.0.0.5)
+## 📝 Tentang Proyek  
+Proyek ini adalah platform **berbasis web** yang dirancang untuk meningkatkan pengalaman para pemain **SAMP (San Andreas Multiplayer)**.  
+Kami akan menghadirkan berbagai fitur yang menarik seperti:  
+✅ Statistik pemain real-time  
+✅ Pengelolaan server yang efisien  
+✅ Desain ramah pengguna  
 
-## Credits
-This project is made possible by the contributions of the following individuals and teams:
+Tetap pantau perkembangan proyek ini! 💻✨  
 
-### Development Team
-- **[Fabian Permadi]** - Project Lead & Backend Developer
+---
 
-### Tools and Technologies
-- **PHP** - Backend Development
-- **MySQL** - Database Management
-- **Bootstrap** - Frontend Framework
-- **jQuery** - Interactive UI
+## 🎯 **Fitur yang Direncanakan**  
+- 🛡️ **Pendaftaran & Login Pemain**  
+- 📊 **Statistik Server Real-Time**  
+- 🛠️ **Panel Admin untuk Pengelolaan Server**  
+- 🎨 **Dasbor yang Mudah Digunakan**  
+- 📱 **Desain Responsif untuk Perangkat Seluler**  
 
-### Special Thanks
-- To the **SAMP Community** for their continuous support and feedback.
-- To all beta testers who help refine this project.
+---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## 🛤️ **Roadmap Proyek**  
+| Tahapan               | Tanggal             |  
+|-----------------------|---------------------|  
+| 🚀 Mulai Proyek       | **25 Januari 2025** |  
+| 🧪 Uji Beta           | **TBD**            |  
+| 🌟 Rilis Resmi        | **TBD**            |  
 
-## Contact
-For any inquiries or contributions, feel free to reach out:
-- **Email:** [gyuofficial.app@gmail.com]
-- **Discord:** [gyubuls#0]
+---
 
-Stay updated and follow the progress of this project. We appreciate your support!
+## 👥 **Kredit**  
+### **Tim Pengembang**  
+- 👨‍💻 **Fabian Permadi** - Pemimpin Proyek & Developer Backend  
+
+### **Alat & Teknologi**  
+- 🔧 **PHP** - Pengembangan Backend  
+- 🗄️ **MySQL** - Manajemen Basis Data  
+- 🎨 **Bootstrap** - Kerangka Kerja Frontend  
+- ⚡ **jQuery** - Antarmuka Interaktif  
+
+---
+
+## 💖 Dukungan dan Donasi  
+Kami sangat menghargai dukungan Anda untuk proyek ini!  
+📌 **Bantu kami berkembang dengan berdonasi melalui tautan berikut:**  
+[![Donasi Sekarang](https://via.placeholder.com/300x100.png?text=Klik+untuk+Donasi)](https://sociabuzz.com/fabianpermadi/tribe)  
+
+---
+
+## 📬 Hubungi Kami  
+📧 **Email:** [gyuofficial.app@gmail.com](mailto:gyuofficial.app@gmail.com)  
+💬 **Discord:** [gyubuls#0](#)  
+
+Terima kasih atas dukungan Anda! 💕  
+Tetap ikuti pembaruan untuk **Proyek Web SAMP**! 🚀✨
