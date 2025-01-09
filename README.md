@@ -52,7 +52,7 @@ Tetap pantau perkembangan proyek ini! 💻✨
 ## 💖 Dukungan dan Donasi  
 Kami sangat menghargai dukungan Anda untuk proyek ini!  
 📌 **Bantu kami berkembang dengan berdonasi melalui tautan berikut:**  
-[![Donasi Sekarang](https://via.placeholder.com/300x100.png?text=Klik+untuk+Donasi)](https://sociabuzz.com/fabianpermadi/tribe)  
+https://sociabuzz.com/fabianpermadi/tribe
 
 ---
 
